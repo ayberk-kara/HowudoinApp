@@ -65,6 +65,6 @@ npm test
 ### Academic Disclaimer
 
 This application was developed as part of the
-CS310 Software Engineering course project.
+CS310 course project.
 Its purpose is to demonstrate software engineering practices through a complete
 Android chat application.
